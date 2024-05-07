@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-05-07T15:53:27.804746-05" version="8.15.1">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">4032</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">3024</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:2:0</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Make</name>
+      <value type="VipsRefString">Apple (Apple, ASCII, 6 components, 6 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Model</name>
+      <value type="VipsRefString">iPhone 7 (iPhone 7, ASCII, 9 components, 9 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">6 (Right-top, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Inch, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Software</name>
+      <value type="VipsRefString">11.4.1 (11.4.1, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-DateTime</name>
+      <value type="VipsRefString">2018:09:14 16:46:04 (2018:09:14 16:46:04, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureTime</name>
+      <value type="VipsRefString">1/24 (1/24 sec., Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FNumber</name>
+      <value type="VipsRefString">9/5 (f/1.8, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureProgram</name>
+      <value type="VipsRefString">2 (Normal program, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ISOSpeedRatings</name>
+      <value type="VipsRefString">32 (32, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.21 (Exif Version 2.21, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeOriginal</name>
+      <value type="VipsRefString">2018:09:14 16:46:04 (2018:09:14 16:46:04, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeDigitized</name>
+      <value type="VipsRefString">2018:09:14 16:46:04 (2018:09:14 16:46:04, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ComponentsConfiguration</name>
+      <value type="VipsRefString">Y Cb Cr - (Y Cb Cr -, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ShutterSpeedValue</name>
+      <value type="VipsRefString">8969/1955 (4.59 EV (1/24 sec.), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ApertureValue</name>
+      <value type="VipsRefString">2159/1273 (1.70 EV (f/1.8), Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-BrightnessValue</name>
+      <value type="VipsRefString">5123/1478 (3.47 EV (37.87 cd/m^2), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureBiasValue</name>
+      <value type="VipsRefString">0/1 (0.00 EV, SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MeteringMode</name>
+      <value type="VipsRefString">3 (Spot, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-Flash</name>
+      <value type="VipsRefString">16 (Flash did not fire, compulsory flash mode, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLength</name>
+      <value type="VipsRefString">399/100 (4.0 mm, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubjectArea</name>
+      <value type="VipsRefString">2154 1527 753 756 (Within rectangle (width 753, height 756) around (x,y) = (2154,1527), Short, 4 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MakerNote</name>
+      <value type="VipsRefString">986 bytes undefined data (986 bytes undefined data, Undefined, 986 components, 986 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeOriginal</name>
+      <value type="VipsRefString">426 (426, ASCII, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeDigitized</name>
+      <value type="VipsRefString">426 (426, ASCII, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">1 (sRGB, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelXDimension</name>
+      <value type="VipsRefString">4032 (4032, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelYDimension</name>
+      <value type="VipsRefString">3024 (3024, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SensingMethod</name>
+      <value type="VipsRefString">2 (One-chip color area sensor, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneType</name>
+      <value type="VipsRefString">Directly photographed (Directly photographed, Undefined, 1 components, 1 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureMode</name>
+      <value type="VipsRefString">0 (Auto exposure, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-WhiteBalance</name>
+      <value type="VipsRefString">0 (Auto white balance, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLengthIn35mmFilm</name>
+      <value type="VipsRefString">28 (28, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneCaptureType</name>
+      <value type="VipsRefString">0 (Standard, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensSpecification</name>
+      <value type="VipsRefString">399/100 399/100 9/5 9/5 (3.99, 3.99, 1.8, 1.8, Rational, 4 components, 32 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensMake</name>
+      <value type="VipsRefString">Apple (Apple, ASCII, 6 components, 6 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensModel</name>
+      <value type="VipsRefString">iPhone 7 back camera 3.99mm f/1.8 (iPhone 7 back camera 3.99mm f/1.8, ASCII, 34 components, 34 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLatitudeRef</name>
+      <value type="VipsRefString">N (N, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLatitude</name>
+      <value type="VipsRefString">4/1 35/1 5135/100 ( 4, 35, 51.35, Rational, 3 components, 24 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLongitudeRef</name>
+      <value type="VipsRefString">W (W, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSLongitude</name>
+      <value type="VipsRefString">74/1 4/1 2216/100 (74,  4, 22.16, Rational, 3 components, 24 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSAltitudeRef</name>
+      <value type="VipsRefString">Sea level (Sea level, Byte, 1 components, 1 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSAltitude</name>
+      <value type="VipsRefString">144963/55 (2635.69, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSSpeedRef</name>
+      <value type="VipsRefString">K (K, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSSpeed</name>
+      <value type="VipsRefString">0/1 ( 0, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSImgDirectionRef</name>
+      <value type="VipsRefString">T (T, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSImgDirection</name>
+      <value type="VipsRefString">20713/167 (124.030, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSDestBearingRef</name>
+      <value type="VipsRefString">T (T, ASCII, 2 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSDestBearing</name>
+      <value type="VipsRefString">20713/167 (124.030, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd3-GPSHPositioningError</name>
+      <value type="VipsRefString">65/1 (65, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">6</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>

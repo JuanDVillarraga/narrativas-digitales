@@ -1,38 +1,53 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
+  "base": "https://JuanDVillarraga.github.io",
+  "baseurl": "/narrativas-digitales",
+  "title": "Fantasías Animadas de Ayer y Hoy",
+  "subtitle": "Narrativas de género en el Frente Nacional",
+  "credits": "Juan D Villarraga ",
   "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "Nombre del producto",
+        "label": "Nombre del producto",
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "Fuente",
+        "label": "Fuente",
+        "type": "text"
+      },
+      {
+        "key": "Patrocinador",
+        "label": "Patrocinador",
+        "type": "text"
+      },
+      {
+        "key": "Año",
+        "label": "Año",
+        "type": "text"
+      },
+      {
+        "key": "País",
+        "label": "País",
         "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "autor",
-      "fecha"
+      "Nombre del producto",
+      "Fuente",
+      "Patrocinador",
+      "Año",
+      "País"
     ]
   }
 };

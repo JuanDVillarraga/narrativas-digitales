@@ -1,5 +1,22 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,Nombre del producto,Fuente,Patrocinador,Año,País
+publi_01,Dinero para vivienda ,Cédulas Hipotecarias pa vivienda,Revista Cromos ,Banco Central Hipotecario,1960,Colombia
+publi_02,El patriarca ,Porvenir familiar ,Revista Cromos ,Compañía Colombiana de Seguros ,1958,Colombia
+publi_03,La casa en el aire ,Y ahora casa propia ,Revista Cromos ,Seguros Bolívar,1959,Colombia
+publi_04,Mujer a la univerisidad,La educación de sus hijos ,Revista Cromos ,Compañía Colombiana de Seguros ,1958,Colombia
+publi_05,La familia de bien,Urbanización El Chico norte,Revista Cromos ,Ospinas y Compañía,1963,Colombia
+publi_06,Rol de genero infantil,El niño y la niña,Revista Cromos ,Cromos para ellas,1957,Colombia
+publi_07,La familia nuclear ,"130,000 hogares",Revista Cromos ,Compañía Colombiana de Seguros ,1962,Colombia
+publi_08,El Arquitecto ,Le Corbusier y Bogotá,Revista Cromos ,Revista Cromos ,1960,Colombia
+publi_09,Los regalos para ella,La familia Centrales ,Revista Cromos ,Electrodomesticos Centrales ,1957,Colombia
+publi_10,Clima bogotano,En invierno y en verano,Revista Cromos ,Fibra-Glass,1959,Colombia
+publi_11,Avianca por el mundo,Un mundo de ventajas para viajar por el mundo,Revista Cromos ,Avianca,1960,Colombia
+publi_12,La casa propia,Ahorro es vivienda ,Revista Cromos ,Banco Central Hipotecario,1961,Colombia
+publi_13,Decora con PAVCIO,Pisos y laminados PAVCO ,Revista Cromos ,PAVCO S.A.,1962,Colombia
+publi_14,PIELROJA,Encienda un PIELROJA,Revista Cromos ,PIELROJA,1962,Colombia
+publi_15,Aptos Bogotá,Unidad residencial San Francisco,Revista Cromos ,Revista Cromos ,1960,Colombia
+publi_16,gane con Bolívar,Títulos Bolívar,Revista Cromos ,Seguros Bolívar,1959,Colombia
+publi_17,Títulos Bolívar,Capitalizadora Bolívar,Revista Cromos ,Seguros Bolívar,1961,Colombia
+publi_18,los pisos son PAVCO,Tuberia y accesorios PVC,Revista Cromos ,PAVCO S.A.,1963,Colombia
+publi_19,Bogotá ahorradora,Bogotá sede del ahorro,Revista Cromos ,Caja Colombiana de Ahorros ,1959,Colombia
+publi_20,hogar protegido ,Recuerdelo con orgullo y gratitud,Revista Cromos ,Compañía Colombiana de Seguros ,1958,Colombia
+publi_21,casa brillante,Su hogar es un rlefjeo de usted misma ,Revista Cromos ,Cortina Artex,1966,Colombia

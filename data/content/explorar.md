@@ -1,6 +1,6 @@
 ---
 name: explore
-galleryFilters: ["label", "autor"] ## Lista de metadatos para ampliar el filtro de la galería. p.e. ["pid", "label"]
+galleryFilters: ["Patrocinador", "Año"] ## Lista de metadatos para ampliar el filtro de la galería. p.e. ["Patrocinador", "Año"]
 ---
 
 # Explorar

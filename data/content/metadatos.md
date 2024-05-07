@@ -12,9 +12,12 @@ Este es el protocolo que especifica la construcción de los datos de la colecci�
 
 | Dato   | Descripción                                                                     |  Tipo      |
 |---     |---                                                                              |---         |
-| pid    | Identificador único                                                             | categórico |
-| label  | Nombre de la obra. Iniciales con mayúsculas                                     | categórico |
-| autor  | Autor de la obra. Inciales con mayúsculas, incluir acentos                      | categórico |
-| fecha  | Año aproximado de producción de la obra. Escrito en número completo (p.ej 1589) | ordinal    |
+| pid    | Identificador único                                                             | nominal    |
+| label  | Nombre de la obra. Iniciales con mayúsculas                                     | nominal    |
+| Nombre del producto| Título dado a cada pieza publicitaria                               | nominal    |
+| Fuente | Nombre del medio de comunicación donde aparece la pieza gráfica                 | nominal    |
+| Patrocinador| Nombre del patrocinador del anuncio gráfico                                | categórico |
+| Año    | Año de publicación de la pieza gráfica                                          | categórico |
+| País   | Paíd emisor de la publicación                                                   | nominal    |
 
 <!-- La tabla de metadatos se carga automáticamente -->
